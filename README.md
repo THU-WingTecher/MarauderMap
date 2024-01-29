@@ -17,7 +17,8 @@ Regarding the first-seen timestamp distribution of the samples:
 They are all Win32 EXE file types; we tested them in the Win10 environment.
 We identify and organize them by their SHA-256 values.
 
-If you want to know more about dataset construction, please refer to the paper ***An Empirical Study of Data Disruption by Ransomware Attacks*** published in ICSE'24.
+If you want to know more about dataset construction, please refer to the paper [***An Empirical Study of Data Disruption by Ransomware Attacks***](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) published in ICSE'24.
+For analysis code, please refer to [***MarauderMap-code***](https://github.com/m1-llie/MarauderMap-code).
 
 
 ## Extraction
