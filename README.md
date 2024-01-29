@@ -46,6 +46,7 @@ If you would like to use these samples, please cite us:
   booktitle = {Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)},
   year = {2024},
   location = {Lisbon, Portugal},
-  organization = {IEEE}
+  organization = {IEEE},
+  doi={10.1145/3597503.3639090}
 }
 ```
