@@ -37,7 +37,8 @@ Please access the full dataset via Google Drive: [link](https://drive.google.com
 
 
 ## Citation
-If you would like to use these samples, please cite us:
+Thanks for your interest in our dataset,
+please feel free to leave a star or cite us through:
 
 ```
 @inproceedings{hou2024maraudermap,
@@ -46,7 +47,7 @@ If you would like to use these samples, please cite us:
   booktitle = {Proceedings of the 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)},
   year = {2024},
   location = {Lisbon, Portugal},
-  organization = {IEEE},
+  organization = {ACM},
   doi={10.1145/3597503.3639090}
 }
 ```
